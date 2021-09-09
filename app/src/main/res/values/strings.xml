@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">MAD_Project</string>
+    <string name="frontBackground">this is my front background</string>
+    <string name="logo">my logo</string>
+    <string name="startBtn">get started</string>
+    <string name="button">Button</string>
+    <string name="btn">Get Start</string>
+    <string name="frontBg">front background</string>
+    <string name="logo1">my Logo</string>
+    <string name="button1">get_start</string>
+    <string name="get_start">Get Started</string>
+    <string name="front_image">front background</string>
 </resources>
