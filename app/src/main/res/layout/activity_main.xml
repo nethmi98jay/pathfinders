@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@android:color/black"
-    android:backgroundTint="#e0c055"
+    android:backgroundTint="#F8F7F5"
     tools:context=".MainActivity">
 
     <Button
@@ -19,23 +19,22 @@
         android:textColor="#212121"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.551"
+        app:layout_constraintHorizontal_bias="0.543"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/front_image"
-        app:layout_constraintVertical_bias="0.739"
+        app:layout_constraintVertical_bias="0.138"
         tools:ignore="TextContrastCheck" />
 
     <ImageView
         android:id="@+id/front_image"
-        android:layout_width="410dp"
-        android:layout_height="459dp"
+        android:layout_width="343dp"
+        android:layout_height="293dp"
         android:contentDescription="@string/front_image"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0"
+        app:layout_constraintVertical_bias="0.34"
         app:srcCompat="@drawable/logo"
         tools:ignore="ImageContrastCheck" />
 </androidx.constraintlayout.widget.ConstraintLayout>
