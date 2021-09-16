@@ -12,4 +12,37 @@
     <string name="front_image">front background</string>
     <string name="Button" />
     <string name="Sweets">Sweets</string>
+    <string name="log_img">login image</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="LgBtn">login</string>
+    <string name="psw">Password</string>
+    <string name="use">Username</string>
+    <string name="person">personlog</string>
+    <string name="total">Total Price: Rs 0.00</string>
+    <string name="buy_now">Placeorder</string>
+    <string name="product_img">product_image</string>
+    <string name="product_name2">Product Name</string>
+    <string name="product_name1">Product_name</string>
+    <string name="product_price2">Product Price</string>
+    <string name="product_total">Total</string>
+    <string name="product_quantity">Quantity</string>
+    <string name="toptitle">Your Order Has Been Placed</string>
+    <string name="image2">orderDone</string>
+    <string name="thanks">Thank you for purchasing our product \n please come again</string>
+    <string name="buttonhome">Home</string>
+    <string name="orderBtn">PLACEORDER</string>
+    <string name="placeorder">placeorder</string>
+    <string name="adminBtn">Admin Login</string>
+    <string name="invoice">Rs 500.00</string>
+    <string name="one_more_step">One More Step!</string>
+    <string name="pay">Pay</string>
+    <string name="cancel">cancel</string>
+    <string name="cart2">cartimage</string>
+    <string name="comment">Comment</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+
+
 </resources>
