@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MAD_Project">
         <activity
+            android:name=".PaymentActivitty"
+            android:exported="true" />
+        <activity
+            android:name=".placeOrderActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Fragment_my_cart"
+            android:exported="true" />
+        <activity
+            android:name=".login"
+            android:exported="true" />
+        <activity
             android:name=".sweets"
             android:exported="true" />
         <activity
