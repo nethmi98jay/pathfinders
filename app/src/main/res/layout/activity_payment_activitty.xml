@@ -32,10 +32,10 @@
 
     <Button
         android:id="@+id/payBtn"
-        android:layout_width="172dp"
-        android:layout_height="51dp"
+        android:layout_width="167dp"
+        android:layout_height="42dp"
         android:layout_marginStart="32dp"
-        android:layout_marginBottom="97dp"
+        android:layout_marginBottom="76dp"
         android:background="@drawable/round_bg"
         android:text="@string/pay"
         android:textColor="@color/white"
@@ -45,16 +45,16 @@
 
     <Button
         android:id="@+id/cancelBtn"
-        android:layout_width="172dp"
-        android:layout_height="51dp"
-        android:layout_marginBottom="96dp"
+        android:layout_width="167dp"
+        android:layout_height="42dp"
+        android:layout_marginBottom="76dp"
         android:background="@drawable/round_red_bg"
         android:text="@string/cancel"
         android:textColor="@color/white"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.542"
+        app:layout_constraintHorizontal_bias="0.644"
         app:layout_constraintStart_toEndOf="@+id/payBtn" />
 
     <EditText
@@ -64,8 +64,8 @@
         android:layout_marginTop="24dp"
         android:layout_marginBottom="24dp"
         android:ems="10"
+        android:hint="Enter Date"
         android:inputType="date"
-        android:text="@string/date"
         app:layout_constraintBottom_toTopOf="@+id/time"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
@@ -78,8 +78,8 @@
         android:layout_height="48dp"
         android:layout_marginTop="24dp"
         android:ems="10"
+        android:hint="Enter Time"
         android:inputType="time"
-        android:text="@string/time"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/date" />
@@ -90,20 +90,20 @@
         android:layout_height="48dp"
         android:layout_marginTop="24dp"
         android:ems="10"
-        android:inputType="textPersonName"
-        android:text="@string/comment"
+        android:hint="comment"
+        android:inputType="text"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/time" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName6"
+        android:id="@+id/name"
         android:layout_width="250dp"
         android:layout_height="48dp"
         android:layout_marginTop="88dp"
         android:ems="10"
+        android:hint="Enter Name"
         android:inputType="textPersonName"
-        android:text="Name"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
@@ -114,12 +114,12 @@
         android:layout_width="250dp"
         android:layout_height="48dp"
         android:layout_marginTop="24dp"
-        android:layout_marginBottom="24dp"
+        android:layout_marginBottom="5dp"
         android:ems="10"
-        android:inputType="textPersonName"
-        android:text="@string/address"
+        android:hint="Enter Address"
+        android:inputType="text"
         app:layout_constraintBottom_toTopOf="@+id/date"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName6" />
+        app:layout_constraintTop_toBottomOf="@+id/name" />
 </androidx.constraintlayout.widget.ConstraintLayout>
