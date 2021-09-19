@@ -44,5 +44,29 @@
     <string name="date">Date</string>
     <string name="time">Time</string>
 
+    <string name="add">Add Drivers</string>
+    <string name="view">View Drivers</string>
+    <string name="adddetails">Add Details</string>
+    <string name="name">Name</string>
+    <string name="name">Name</string>
+    <string name="Name">Name</string>
+    <string name="nic_no">NIC No</string>
+    <string name="submit">Submit</string>
+    <string name="subadd">Submit</string>
+    <string name="driverlist">Driver List</string>
+    <string name="nicno">NIC No</string>
+    <string name="col1">Driver Name</string>
+    <string name="col2">Nic No</string>
+    <string name="col3">Contact No</string>
+    <string name="row1Name">Samith</string>
+    <string name="row1NICNo">199912343543</string>
+    <string name="row1ContactNo">0718565765</string>
+    <string name="row2Name">Chathumi</string>
+    <string name="row2NICNo">199812143547</string>
+    <string name="row2ContactNo">0728555768</string>
+    <string name="row3Name">Vimod</string>
+    <string name="row3NICNo">199712643541</string>
+    <string name="row3ContactNo">0758565860</string>
+
 
 </resources>
