@@ -43,6 +43,7 @@
     <string name="address">Address</string>
     <string name="date">Date</string>
     <string name="time">Time</string>
+
     <string name="add">Add Drivers</string>
     <string name="view">View Drivers</string>
     <string name="adddetails">Add Details</string>
@@ -66,5 +67,6 @@
     <string name="row3Name">Vimod</string>
     <string name="row3NICNo">199712643541</string>
     <string name="row3ContactNo">0758565860</string>
+
 
 </resources>
