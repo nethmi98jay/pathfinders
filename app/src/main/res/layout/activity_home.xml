@@ -232,7 +232,7 @@
         tools:ignore="SpeakableTextPresentCheck" />
 
     <ImageButton
-        android:id="@+id/imageButton4"
+        android:id="@+id/cart1"
         android:layout_width="115dp"
         android:layout_height="72dp"
         android:background="@drawable/round"
