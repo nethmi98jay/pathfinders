@@ -3,7 +3,6 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-
         <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/drawable/bakery.xml" value="0.18611111111111112" />
         <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/drawable/ic_baseline_invert_colors_24.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/drawable/round.xml" value="0.19583333333333333" />
@@ -15,6 +14,21 @@
         <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/layout/activity_sweets.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/layout/activity_vegitablelist.xml" value="0.15462962962962962" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.17592592592592593" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/drawable/ic_baseline.xml" value="0.17592592592592593" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/drawable/ic_baseline_cake_24.xml" value="0.17592592592592593" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/drawable/ic_baseline_invert_colors_24.xml" value="0.17592592592592593" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.17592592592592593" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/drawable/ic_baseline_perm_identity_24.xml" value="0.17592592592592593" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.17592592592592593" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.17592592592592593" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/drawable/ic_baseline_two_wheeler_24.xml" value="0.17592592592592593" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/drawable/ic_launcher_background.xml" value="0.17592592592592593" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/layout/activity_delivery_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/layout/activity_kavindu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/layout/activity_map.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/layout/activity_order.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/layout/activity_payment_details.xml" value="0.25" />
         <entry key="..\:/Users/Microsoft/AndroidStudioProjects/pathfinders/app/src/main/res/drawable/ic_baseline_cake_24.xml" value="0.2703125" />
         <entry key="..\:/Users/Microsoft/AndroidStudioProjects/pathfinders/app/src/main/res/layout/activity_delivermain.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Microsoft/AndroidStudioProjects/pathfinders/app/src/main/res/layout/activity_fragment_my_cart.xml" value="0.25416666666666665" />
@@ -29,9 +43,7 @@
         <entry key="..\:/Users/Microsoft/AndroidStudioProjects/pathfinders/app/src/main/res/layout/deliveradd.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Microsoft/AndroidStudioProjects/pathfinders/app/src/main/res/layout/deliverview.xml" value="0.264" />
         <entry key="..\:/Users/Microsoft/AndroidStudioProjects/pathfinders/app/src/main/res/layout/my_cart_item.xml" value="0.25416666666666665" />
-
         <entry key="..\:/Users/it20215538/AndroidStudioProjects/MAD_Project/app/src/main/res/drawable/logingtxt.xml" value="0.2703125" />
-
         <entry key="..\:/Users/it20215538/AndroidStudioProjects/MAD_Project/app/src/main/res/drawable/round_bg.xml" value="0.2703125" />
         <entry key="..\:/Users/it20215538/AndroidStudioProjects/MAD_Project/app/src/main/res/drawable/round_border.xml" value="0.2703125" />
         <entry key="..\:/Users/it20215538/AndroidStudioProjects/MAD_Project/app/src/main/res/drawable/round_red_bg.xml" value="0.2703125" />
@@ -48,7 +60,7 @@
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
