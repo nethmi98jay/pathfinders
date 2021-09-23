@@ -3,6 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+
+        <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/drawable/bakery.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/drawable/round_bg.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/layout/activity_fruitlist.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/layout/activity_home.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/layout/activity_items.xml" value="0.2840909090909091" />
+        <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/layout/activity_main.xml" value="0.13802083333333334" />
+
         <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/drawable/bakery.xml" value="0.18611111111111112" />
         <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/drawable/ic_baseline_invert_colors_24.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/drawable/round.xml" value="0.19583333333333333" />
@@ -43,6 +51,7 @@
         <entry key="..\:/Users/Microsoft/AndroidStudioProjects/pathfinders/app/src/main/res/layout/deliveradd.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Microsoft/AndroidStudioProjects/pathfinders/app/src/main/res/layout/deliverview.xml" value="0.264" />
         <entry key="..\:/Users/Microsoft/AndroidStudioProjects/pathfinders/app/src/main/res/layout/my_cart_item.xml" value="0.25416666666666665" />
+
         <entry key="..\:/Users/it20215538/AndroidStudioProjects/MAD_Project/app/src/main/res/drawable/logingtxt.xml" value="0.2703125" />
         <entry key="..\:/Users/it20215538/AndroidStudioProjects/MAD_Project/app/src/main/res/drawable/round_bg.xml" value="0.2703125" />
         <entry key="..\:/Users/it20215538/AndroidStudioProjects/MAD_Project/app/src/main/res/drawable/round_border.xml" value="0.2703125" />

@@ -30,17 +30,7 @@ public class sweets extends AppCompatActivity {
 
         });
 
-        button37 = (ImageButton) findViewById(R.id.imageButton37);
-        button37.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(sweets.this, fruitlist.class);
-                startActivity(intent);
-            }
 
-
-
-        });
 
         button36 = (ImageButton) findViewById(R.id.imageButton36);
         button36.setOnClickListener(new View.OnClickListener() {
