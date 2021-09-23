@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MAD_Project">
         <activity
-            android:name=".PaymentActivitty"
+            android:name=".PaymentActivity"
             android:exported="true" />
         <activity
             android:name=".placeOrderActivity"

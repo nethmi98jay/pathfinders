@@ -34,16 +34,11 @@
     <string name="placeorder">placeorder</string>
     <string name="adminBtn">Admin Login</string>
     <string name="invoice">Rs 500.00</string>
-    <string name="one_more_step">One More Step!</string>
-    <string name="pay">Pay</string>
-    <string name="cancel">cancel</string>
-    <string name="cart2">cartimage</string>
-    <string name="delivery">delivery</string>
+
 
     <string name="add">Add Drivers</string>
     <string name="view">View Drivers</string>
     <string name="adddetails">Add Details</string>
-    <string name="name">Name</string>
     <string name="name">Name</string>
     <string name="Name">Name</string>
     <string name="nic_no">NIC No</string>
@@ -63,6 +58,8 @@
     <string name="row3Name">Vimod</string>
     <string name="row3NICNo">199712643541</string>
     <string name="row3ContactNo">0758565860</string>
+    <string name="submitBtn">submit</string>
+    <string name="topic">Your Details!</string>
 
 
 </resources>
