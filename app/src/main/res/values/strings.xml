@@ -34,15 +34,47 @@
     <string name="placeorder">placeorder</string>
     <string name="adminBtn">Admin Login</string>
     <string name="invoice">Rs 500.00</string>
-    <string name="one_more_step">One More Step!</string>
-    <string name="pay">Pay</string>
-    <string name="cancel">cancel</string>
-    <string name="cart2">cartimage</string>
-    <string name="comment">Comment</string>
+
+
+    <string name="add">Add Drivers</string>
+    <string name="view">View Drivers</string>
+    <string name="adddetails">Add Details</string>
     <string name="name">Name</string>
-    <string name="address">Address</string>
-    <string name="date">Date</string>
-    <string name="time">Time</string>
+    <string name="Name">Name</string>
+    <string name="nic_no">NIC No</string>
+    <string name="submit">Submit</string>
+    <string name="subadd">Submit</string>
+    <string name="driverlist">Driver List</string>
+    <string name="nicno">NIC No</string>
+    <string name="col1">Driver Name</string>
+    <string name="col2">Nic No</string>
+    <string name="col3">Contact No</string>
+    <string name="row1Name">Samith</string>
+    <string name="row1NICNo">199912343543</string>
+    <string name="row1ContactNo">0718565765</string>
+    <string name="row2Name">Chathumi</string>
+    <string name="row2NICNo">199812143547</string>
+    <string name="row2ContactNo">0728555768</string>
+    <string name="row3Name">Vimod</string>
+    <string name="row3NICNo">199712643541</string>
+    <string name="row3ContactNo">0758565860</string>
+
+    <string name="submitBtn">submit</string>
+    <string name="topic">Your Details!</string>
+
+    <string name="payment">CardNumber</string>
+    <string name="payment1">cvc</string>
+    <string name="payment2">dateofbirth</string>
+    <string name="payment3">address</string>
+    <string name="payment6">"Rs 2500 + rs 150  Your Order Details "</string>
+    <string name="delivery1">Total payment = Rs 2500 Add delivery details = Rs 150</string>
+    <string name="delivery3">Conformed Order</string>
+    <string name="dlivery4">"name = pizza "</string>
+    <string name="delivery4">"name = pizza sub totaol = 2500 discount 20% code no 0099 "</string>
+    <string name="map1">Victory id delivering your Order</string>
+    <string name="map4">Estimated delivery time</string>
+    <string name="order1">Recive your order your doorstep in minutes!</string>
+
 
 
 </resources>
