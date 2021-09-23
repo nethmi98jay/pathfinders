@@ -23,15 +23,7 @@ GridView gridView;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
 
-        store = (ImageButton) findViewById(R.id.store);
-        store.setOnClickListener(new View.OnClickListener(){
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(Home.this, fruitlist.class);
-                startActivity(intent);
-            }
 
-        });
         cart1 = (ImageButton) findViewById(R.id.cart1);
         cart1.setOnClickListener(new View.OnClickListener(){
             @Override
@@ -42,6 +34,16 @@ GridView gridView;
 
         });
 
+
+        store = (ImageButton) findViewById(R.id.store);
+        store.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Home.this, Items.class);
+                startActivity(intent);
+            }
+
+        });
 
 
 

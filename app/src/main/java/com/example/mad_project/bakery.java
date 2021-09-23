@@ -54,14 +54,6 @@ public class bakery extends AppCompatActivity {
 
         });
 
-        button25 = (ImageButton) findViewById(R.id.imageButton25);
-        button25.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(bakery.this, fruitlist.class);
-                startActivity(intent);
-            }
 
-        });
     }
 }

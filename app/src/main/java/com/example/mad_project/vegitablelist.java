@@ -35,17 +35,7 @@ public class vegitablelist extends AppCompatActivity {
 
         });
 
-        button17 = (ImageButton) findViewById(R.id.imageButton17);
-        button17.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(vegitablelist.this, fruitlist.class);
-                startActivity(intent);
-            }
 
-
-
-        });
 
         button16 = (ImageButton) findViewById(R.id.imageButton16);
         button16.setOnClickListener(new View.OnClickListener() {
