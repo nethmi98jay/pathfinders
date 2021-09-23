@@ -63,6 +63,18 @@
     <string name="row3Name">Vimod</string>
     <string name="row3NICNo">199712643541</string>
     <string name="row3ContactNo">0758565860</string>
+    <string name="payment">CardNumber</string>
+    <string name="payment1">cvc</string>
+    <string name="payment2">dateofbirth</string>
+    <string name="payment3">address</string>
+    <string name="payment6">"Rs 2500 + rs 150  Your Order Details "</string>
+    <string name="delivery1">Total payment = Rs 2500 Add delivery details = Rs 150</string>
+    <string name="delivery3">Conformed Order</string>
+    <string name="dlivery4">"name = pizza "</string>
+    <string name="delivery4">"name = pizza sub totaol = 2500 discount 20% code no 0099 "</string>
+    <string name="map1">Victory id delivering your Order</string>
+    <string name="map4">Estimated delivery time</string>
+    <string name="order1">Recive your order your doorstep in minutes!</string>
 
 
 </resources>

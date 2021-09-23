@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MAD_Project">
         <activity
+            android:name=".order"
+            android:exported="true" />
+        <activity
+            android:name=".map"
+            android:exported="true" />
+        <activity
+            android:name=".payment_details"
+            android:exported="true" />
+        <activity
+            android:name=".delivery_details"
+            android:exported="true" />
+        <activity
             android:name=".PaymentActivitty"
             android:exported="true" />
         <activity
