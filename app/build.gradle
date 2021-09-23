@@ -35,6 +35,15 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:2.1.0'
     implementation 'com.google.firebase:firebase-database:19.2.1'
     testImplementation 'junit:junit:4.+'
+    dependencies {
+        // Import the BoM for the Firebase platform
+        implementation platform('com.google.firebase:firebase-bom:28.4.1')
+
+        // Declare the dependencies for the desired Firebase products without specifying versions
+        // For example, declare the dependencies for Firebase Authentication and Cloud Firestore
+        implementation 'com.google.firebase:firebase-auth'
+        implementation 'com.google.firebase:firebase-firestore'
+    }
     implementation 'com.google.firebase:firebase-database:20.0.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
