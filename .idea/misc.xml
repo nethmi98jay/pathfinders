@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+
         <entry key="..\:/Users/Microsoft/AndroidStudioProjects/Foodmart/app/src/main/res/layout/activity_add_driver.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Microsoft/AndroidStudioProjects/Foodmart/app/src/main/res/layout/activity_admin_home.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Microsoft/AndroidStudioProjects/Foodmart/app/src/main/res/layout/activity_admin_login.xml" value="0.25416666666666665" />
@@ -13,6 +14,15 @@
         <entry key="..\:/Users/Microsoft/AndroidStudioProjects/Foodmart/app/src/main/res/layout/custom_driver_details.xml" value="0.1" />
         <entry key="..\:/Users/Microsoft/AndroidStudioProjects/Foodmart/app/src/main/res/layout/custom_product_details.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Microsoft/AndroidStudioProjects/Foodmart/app/src/main/res/layout/custom_update_driver_details.xml" value="0.264" />
+
+        <entry key="..\:/Users/DELL/Desktop/Foodmart/Foodmart/app/src/main/res/layout/activity_add_driver.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/DELL/Desktop/Foodmart/Foodmart/app/src/main/res/layout/activity_customer_home.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/Foodmart/Foodmart/app/src/main/res/layout/custom_cart_deails.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/Foodmart/Foodmart/app/src/main/res/layout/custom_cart_item_user.xml" value="0.1712962962962963" />
+        <entry key="..\:/Users/DELL/Desktop/Foodmart/Foodmart/app/src/main/res/layout/custom_product_details.xml" value="0.1712962962962963" />
+        <entry key="..\:/Users/DELL/Desktop/Foodmart/Foodmart/app/src/main/res/layout/custom_update_cart_item.xml" value="0.1712962962962963" />
+        <entry key="..\:/Users/DELL/Desktop/Foodmart/Foodmart/app/src/main/res/layout/custom_update_product_details.xml" value="0.16666666666666666" />
+
       </map>
     </option>
   </component>
