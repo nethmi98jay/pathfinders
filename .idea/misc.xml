@@ -3,69 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-
-        <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/drawable/bakery.xml" value="0.1" />
-        <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/drawable/round_bg.xml" value="0.1" />
-        <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/layout/activity_fruitlist.xml" value="0.16666666666666666" />
-        <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/layout/activity_home.xml" value="0.16666666666666666" />
-        <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/layout/activity_items.xml" value="0.2840909090909091" />
-        <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/layout/activity_main.xml" value="0.13802083333333334" />
-
-        <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/drawable/bakery.xml" value="0.18611111111111112" />
-        <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/drawable/ic_baseline_invert_colors_24.xml" value="0.19583333333333333" />
-        <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/drawable/round.xml" value="0.19583333333333333" />
-        <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/drawable/round_bg.xml" value="0.12037037037037036" />
-        <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/drawable/upper.xml" value="0.19583333333333333" />
-        <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/layout/activity_bakery.xml" value="0.15462962962962962" />
-        <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/layout/activity_fruitlist.xml" value="0.22" />
-        <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/layout/activity_home.xml" value="0.22" />
-        <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/layout/activity_main.xml" value="0.22" />
-        <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/layout/activity_sweets.xml" value="0.16666666666666666" />
-        <entry key="..\:/Users/DELL/Desktop/pathfinders/app/src/main/res/layout/activity_vegitablelist.xml" value="0.15462962962962962" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.17592592592592593" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/drawable/ic_baseline.xml" value="0.17592592592592593" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/drawable/ic_baseline_cake_24.xml" value="0.17592592592592593" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/drawable/ic_baseline_invert_colors_24.xml" value="0.17592592592592593" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.17592592592592593" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/drawable/ic_baseline_perm_identity_24.xml" value="0.17592592592592593" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.17592592592592593" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.17592592592592593" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/drawable/ic_baseline_two_wheeler_24.xml" value="0.17592592592592593" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/drawable/ic_launcher_background.xml" value="0.17592592592592593" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/layout/activity_delivery_details.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/layout/activity_kavindu.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/layout/activity_map.xml" value="0.19010416666666666" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/layout/activity_order.xml" value="0.1" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pathfinders/app/src/main/res/layout/activity_payment_details.xml" value="0.25" />
-        <entry key="..\:/Users/Microsoft/AndroidStudioProjects/pathfinders/app/src/main/res/drawable/ic_baseline_cake_24.xml" value="0.2703125" />
-        <entry key="..\:/Users/Microsoft/AndroidStudioProjects/pathfinders/app/src/main/res/layout/activity_delivermain.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/Microsoft/AndroidStudioProjects/pathfinders/app/src/main/res/layout/activity_fragment_my_cart.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/Microsoft/AndroidStudioProjects/pathfinders/app/src/main/res/layout/activity_fruitlist.xml" value="0.264" />
-        <entry key="..\:/Users/Microsoft/AndroidStudioProjects/pathfinders/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/Microsoft/AndroidStudioProjects/pathfinders/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/Microsoft/AndroidStudioProjects/pathfinders/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/Microsoft/AndroidStudioProjects/pathfinders/app/src/main/res/layout/activity_payment_activitty.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/Microsoft/AndroidStudioProjects/pathfinders/app/src/main/res/layout/activity_place_order.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/Microsoft/AndroidStudioProjects/pathfinders/app/src/main/res/layout/activity_sweets.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/Microsoft/AndroidStudioProjects/pathfinders/app/src/main/res/layout/activity_vegitablelist.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/Microsoft/AndroidStudioProjects/pathfinders/app/src/main/res/layout/deliveradd.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/Microsoft/AndroidStudioProjects/pathfinders/app/src/main/res/layout/deliverview.xml" value="0.264" />
-        <entry key="..\:/Users/Microsoft/AndroidStudioProjects/pathfinders/app/src/main/res/layout/my_cart_item.xml" value="0.25416666666666665" />
-
-        <entry key="..\:/Users/it20215538/AndroidStudioProjects/MAD_Project/app/src/main/res/drawable/logingtxt.xml" value="0.2703125" />
-        <entry key="..\:/Users/it20215538/AndroidStudioProjects/MAD_Project/app/src/main/res/drawable/round_bg.xml" value="0.2703125" />
-        <entry key="..\:/Users/it20215538/AndroidStudioProjects/MAD_Project/app/src/main/res/drawable/round_border.xml" value="0.2703125" />
-        <entry key="..\:/Users/it20215538/AndroidStudioProjects/MAD_Project/app/src/main/res/drawable/round_red_bg.xml" value="0.2703125" />
-        <entry key="..\:/Users/it20215538/AndroidStudioProjects/MAD_Project/app/src/main/res/drawable/wave.xml" value="0.2703125" />
-        <entry key="..\:/Users/it20215538/AndroidStudioProjects/MAD_Project/app/src/main/res/layout/activity_bakery.xml" value="0.20516304347826086" />
-        <entry key="..\:/Users/it20215538/AndroidStudioProjects/MAD_Project/app/src/main/res/layout/activity_fragment_my_cart.xml" value="0.20516304347826086" />
-        <entry key="..\:/Users/it20215538/AndroidStudioProjects/MAD_Project/app/src/main/res/layout/activity_fruitlist.xml" value="0.20516304347826086" />
-        <entry key="..\:/Users/it20215538/AndroidStudioProjects/MAD_Project/app/src/main/res/layout/activity_home.xml" value="0.2105978260869565" />
-        <entry key="..\:/Users/it20215538/AndroidStudioProjects/MAD_Project/app/src/main/res/layout/activity_login.xml" value="0.20516304347826086" />
-        <entry key="..\:/Users/it20215538/AndroidStudioProjects/MAD_Project/app/src/main/res/layout/activity_main.xml" value="0.2" />
-        <entry key="..\:/Users/it20215538/AndroidStudioProjects/MAD_Project/app/src/main/res/layout/activity_payment_activitty.xml" value="0.264" />
-        <entry key="..\:/Users/it20215538/AndroidStudioProjects/MAD_Project/app/src/main/res/layout/activity_place_order.xml" value="0.20516304347826086" />
-        <entry key="..\:/Users/it20215538/AndroidStudioProjects/MAD_Project/app/src/main/res/layout/my_cart_item.xml" value="0.20516304347826086" />
+        <entry key="..\:/Users/DELL/Desktop/Foodmart/Foodmart/app/src/main/res/layout/activity_add_driver.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/DELL/Desktop/Foodmart/Foodmart/app/src/main/res/layout/activity_customer_home.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/Foodmart/Foodmart/app/src/main/res/layout/custom_cart_deails.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/Foodmart/Foodmart/app/src/main/res/layout/custom_cart_item_user.xml" value="0.1712962962962963" />
+        <entry key="..\:/Users/DELL/Desktop/Foodmart/Foodmart/app/src/main/res/layout/custom_product_details.xml" value="0.1712962962962963" />
+        <entry key="..\:/Users/DELL/Desktop/Foodmart/Foodmart/app/src/main/res/layout/custom_update_cart_item.xml" value="0.1712962962962963" />
+        <entry key="..\:/Users/DELL/Desktop/Foodmart/Foodmart/app/src/main/res/layout/custom_update_product_details.xml" value="0.16666666666666666" />
       </map>
     </option>
   </component>
