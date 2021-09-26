@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.mad_project">
+    package="com.example.foodmart">
 
     <application
         android:allowBackup="true"
@@ -8,55 +8,29 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.MAD_Project">
-        <activity
-            android:name=".order"
-            android:exported="true" />
-        <activity
-            android:name=".map"
-            android:exported="true" />
-        <activity
-            android:name=".payment_details"
-            android:exported="true" />
-        <activity
-            android:name=".delivery_details"
-            android:exported="true" />
-        <activity
-            android:name=".PaymentActivitty"
-            android:exported="true" />
-        <activity
-            android:name=".placeOrderActivity"
-            android:exported="true" />
-        <activity
-            android:name=".Fragment_my_cart"
-            android:exported="true" />
-        <activity
-            android:name=".login"
-            android:exported="true" />
-        <activity
-            android:name=".sweets"
-            android:exported="true" />
-        <activity
-            android:name=".bakery"
-            android:exported="true" />
-        <activity
-            android:name=".vegitablelist"
-            android:exported="true" />
-        <activity
-            android:name=".fruitlist"
-            android:exported="true" />
-        <activity
-            android:name=".Home"
-            android:exported="true" />
-        <activity
-            android:name=".MainActivity"
-            android:exported="true">
+        android:theme="@style/Theme.FoodMart">
+        <activity android:name=".CartItemList"></activity>
+        <activity android:name=".DeliveryAddedItemList" />
+        <activity android:name=".AddDriver" />
+        <activity android:name=".AddProduct" />
+        <activity android:name=".DeliveryList" />
+        <activity android:name=".ManageEmployeee" />
+        <activity android:name=".ManageProduct" />
+        <activity android:name=".AdminHome" />
+        <activity android:name=".CustomerHome" />
+        <activity android:name=".AdminLogin" />
+        <activity android:name=".ChooseActor" />
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
     </application>
 
 </manifest>
